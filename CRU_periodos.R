@@ -5,8 +5,6 @@ setwd("C:/Proyectos/ClimaPeriodos/")
 months <- 1:12
 months
 
-x<-months[1]
-
 ##Precipitacion####
 #1910-1949
 lapply(months, function(x){
